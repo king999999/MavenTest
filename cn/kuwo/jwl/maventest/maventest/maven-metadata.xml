@@ -4,6 +4,7 @@
   <artifactId>maventest</artifactId>
   <version>1.0</version>
   <versioning>
+	<release>1.0</release>
     <versions>
       <version>1.0</version>
     </versions>
