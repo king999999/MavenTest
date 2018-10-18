@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>net.masonliu</groupId>
+  <artifactId>dagger2plus-compiler</artifactId>
+  <version>1.0.0</version>
+  <versioning>
+    <versions>
+      <version>1.0.0</version>
+    </versions>
+    <lastUpdated>20150810115348</lastUpdated>
+  </versioning>
+</metadata>
